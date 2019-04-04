@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ButtonColumnFiresClientScriptWithRowId/Default.aspx) (VB: [Default.aspx.vb](./VB/ButtonColumnFiresClientScriptWithRowId/Default.aspx.vb))
+* [Default.aspx](./CS/ButtonColumnFiresClientScriptWithRowId/Default.aspx) (VB: [Default.aspx](./VB/ButtonColumnFiresClientScriptWithRowId/Default.aspx))
 * [Default.aspx.cs](./CS/ButtonColumnFiresClientScriptWithRowId/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ButtonColumnFiresClientScriptWithRowId/Default.aspx.vb))
 <!-- default file list end -->
 # How to attach a client-side event with a dynamic argument to a template button
