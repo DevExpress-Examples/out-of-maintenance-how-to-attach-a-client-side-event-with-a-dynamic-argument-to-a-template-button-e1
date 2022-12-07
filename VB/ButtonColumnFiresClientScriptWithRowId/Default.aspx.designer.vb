@@ -38,7 +38,7 @@ Namespace ButtonColumnFiresClientScriptWithRowId
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' ASPxCallbackPanel1 control.
@@ -47,7 +47,7 @@ Namespace ButtonColumnFiresClientScriptWithRowId
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel
 
 		''' <summary>
 		''' ASPxLabel1 control.
@@ -56,6 +56,6 @@ Namespace ButtonColumnFiresClientScriptWithRowId
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 	End Class
 End Namespace

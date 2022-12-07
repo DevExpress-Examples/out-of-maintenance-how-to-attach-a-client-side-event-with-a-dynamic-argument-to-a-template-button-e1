@@ -30,7 +30,7 @@ Namespace ButtonColumnFiresClientScriptWithRowId
 			Return table
 		End Function
 
-		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 			Dim parameters() As String = e.Parameter.Split(";"c)
 			If parameters.Length = 2 AndAlso parameters(0) = "RowClick" Then
 				Dim rowId As Integer = Convert.ToInt32(parameters(1))

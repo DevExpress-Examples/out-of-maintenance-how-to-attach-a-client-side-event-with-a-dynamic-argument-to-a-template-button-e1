@@ -27,7 +27,7 @@ namespace ButtonColumnFiresClientScriptWithRowId {
             return table;
         }
 
-        protected void ASPxCallbackPanel1_Callback(object source, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+        protected void ASPxCallbackPanel1_Callback(object source, DevExpress.Web.CallbackEventArgsBase e) {
             string[] parameters = e.Parameter.Split(';');
             if(parameters.Length == 2 && parameters[0] == "RowClick") {
                 int rowId = Convert.ToInt32(parameters[1]);
